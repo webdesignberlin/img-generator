@@ -18,7 +18,6 @@ foreach (range(0, 107) as $number) {
     print('<br>');
 }
 
-
 function rS($number, array $sequence) {
 
     $sequenceCount = count($sequence);
@@ -27,3 +26,4 @@ function rS($number, array $sequence) {
 
     }
 }
+?>
